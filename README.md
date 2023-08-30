@@ -36,6 +36,6 @@ Como Desarrollador Full Stack, tengo experiencia en las siguientes tecnologías:
 
 ## Contacto
 
-Puedes contactarme a través de [mi correo electrónico][(mailto:and.pardo.vergara@gmail.com)] o [mi perfil de LinkedIn][(https://www.linkedin.com/in/andres-pardo-vergara/)].
+Puedes contactarme a través de [mi correo electrónico](mailto:and.pardo.vergara@gmail.com) o [mi perfil de LinkedIn](https://www.linkedin.com/in/andres-pardo-vergara/).
 
 Estoy comprometido a continuar mi desarrollo como desarrollador full stack y aportar un alto nivel de energía y entusiasmo a su equipo. ¡Gracias por visitar mi portfolio!
