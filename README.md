@@ -1,4 +1,4 @@
-# Profile# Andrés Pardo - Portfolio de Desarrollador Full Stack
+# Andrés Pardo - Portfolio de Desarrollador Full Stack
 
 ¡Bienvenido a mi portfolio de GitHub! Soy Andrés Pardo, y estoy emocionado por la oportunidad de presentarte mi perfil como 
 Desarrollador Full Stack. A lo largo de mis 13 años de carrera en el campo de Tecnologías de la Información (TI), he adquirido una profunda comprensión de los sistemas, las redes y la infraestructura tecnológica. Sin embargo, recientemente he decidido embarcarme en una emocionante transformación profesional para convertirme en un desarrollador full stack.
