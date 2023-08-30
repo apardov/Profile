@@ -17,6 +17,23 @@ Lo que puedo ofrecer es un conjunto de habilidades complementarias que incluye:
 - Enfoque meticuloso en la resolución de problemas.
 - Actitud de aprendizaje constante.
 
+## Tecnologías
+
+Como Desarrollador Full Stack, tengo experiencia en las siguientes tecnologías:
+
+- Frontend Developer
+- JavaScript
+- TypeScript
+- React
+- Redux Toolkit
+- Express
+- PostgreSQL
+- Sequelize
+- Node.js
+- Firebase
+- AWS
+- GCP
+
 ## Contacto
 
 Puedes contactarme a través de [mi correo electrónico](mailto:and.pardo.vergara@gmail.com) o [mi perfil de LinkedIn][(https://www.linkedin.com/in/andres-pardo-vergara/)].
