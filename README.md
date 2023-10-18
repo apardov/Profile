@@ -20,9 +20,7 @@ Lo que puedo ofrecer es un conjunto de habilidades complementarias que incluye:
 
 Como Desarrollador Full Stack, tengo experiencia en las siguientes tecnologías:
 
-- Frontend Developer
 - JavaScript
-- TypeScript
 - React
 - Redux Toolkit
 - Express
