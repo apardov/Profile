@@ -13,7 +13,7 @@ Actualmente he invertido tiempo significativo en aprender y perfeccionar mis hab
 Lo que puedo ofrecer es un conjunto de habilidades complementarias que incluye:
 
 - Sólida base en Tecnologías de la Información.
-- Enfoque meticuloso en la resolución de problemas.
+- Enfoque en la resolución de problemas.
 - Actitud de aprendizaje constante.
 
 ## Tecnologías y Herramientas que Manejo 🚀
